@@ -1,1 +1,0 @@
-# TrekMap-QField-Plugin
