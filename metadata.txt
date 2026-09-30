@@ -1,0 +1,6 @@
+[general]
+name=TrekMap
+description=TrekBuddy atlas and map manager for QField
+version=0.9
+author=TrekMap
+icon=icon.svg
